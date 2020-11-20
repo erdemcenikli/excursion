@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    color:white
+}
+body{
+    background-color: black;
+}
+.new {
+    color:rgb(127,255,212);
+    font-size:16px;
+    text-align: center;
+    text-decoration: underline;
+}
+.center{
+    text-align: center;
+}
