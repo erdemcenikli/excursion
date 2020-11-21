@@ -14,3 +14,21 @@ body{
 .center{
     text-align: center;
 }
+p{
+    color:white;
+    text-align: center;
+}
+
+#shade{
+opacity:0.5;
+}
+h2{
+    color:white;
+    text-align: center;
+}
+img{
+    align-items: center;
+}
+.media{
+    text-align: center;
+}
